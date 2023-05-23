@@ -1,0 +1,6 @@
+ -orbd ORBInitialPort 1050
+ run server using run button
+edit configurations mein jaa
+udhar arguments mein -orbd ORBInitialPort 1050 yeh pass kr
+ run client using run button
+ edit configurations mein jaa udhar arguments mein -orbd ORBInitialPort 1050 yeh pass kr
